@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiheng Yao | 姚毅恒"
+title: "Yiheng Yao"
 author_profile: true
 redirect_from: 
   - /about/
